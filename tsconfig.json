@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "jsx": "react-jsx",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["vitest"]
+  },
+  "include": [
+    "src",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.test.ts",
+    "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts",
+    "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts",
+    "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts"
+  ],
+  "exclude": ["node_modules", "dist"]
+}
