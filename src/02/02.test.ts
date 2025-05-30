@@ -1,5 +1,5 @@
 import {describe, test, expect, beforeEach} from "vitest";
-import {student as initialStudent} from "./02"; // путь к объекту student
+import {student as initialStudent} from "./02";
 import type {StudentProps} from "./02";
 
 let student: StudentProps;

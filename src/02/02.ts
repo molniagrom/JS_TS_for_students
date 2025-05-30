@@ -1,11 +1,11 @@
 
-type AddressType = {
+export type AddressType = {
     city: string,
     street: string,
     country: string,
 }
 
-type TechType = {
+export type TechType = {
     id: number,
     title: string,
 }
