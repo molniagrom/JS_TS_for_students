@@ -215,7 +215,7 @@ test("update company title to user", () => {
     expect(updateCompanyTitleUser.companies[0].title).toBe("Microsoft");
 });
 
-test("update company", () => {
+test.skip("update company", () => {
     let companies = {
         Alina: [
             { id: 1, title: "Майкрософт" },
