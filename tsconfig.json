@@ -20,6 +20,7 @@
     "**/*.test.ts",
     "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts",
     "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts",
+    "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts",
     "node_modules/.pnpm/vitest@3.1.4_@vitest+ui@3.1.4/node_modules/vitest/globals.d.ts"
   ],
   "exclude": ["node_modules", "dist"]

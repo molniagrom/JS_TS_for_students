@@ -1,5 +1,5 @@
 import './App.css'
-import {User} from "./05/06.js";
+import {User} from "./06/06.tsx";
 
 function App() {
 

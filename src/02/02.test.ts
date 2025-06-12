@@ -10,7 +10,7 @@ beforeEach(() => {
 });
 
 describe("Student Object", () => {
-    test("should have correct name and age", () => {
+    test("should have correct city and age", () => {
         expect(student.name).toBe("Alina");
         expect(student.age).toBe(17);
     });
